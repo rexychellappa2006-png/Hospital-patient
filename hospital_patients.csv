@@ -1,0 +1,16 @@
+Patient_ID,Age,Disease,Gender,Admission_Date,Stay_Days
+1,25,Fever,Male,2024-01-05,3
+2,45,Diabetes,Female,2024-01-10,5
+3,67,Heart Disease,Male,2024-02-12,10
+4,34,Fever,Female,2024-02-15,2
+5,55,Diabetes,Male,2024-03-01,6
+6,72,Heart Disease,Female,2024-03-08,12
+7,28,Asthma,Male,2024-03-15,4
+8,39,Fever,Female,2024-04-05,3
+9,61,Heart Disease,Male,2024-04-10,9
+10,50,Diabetes,Female,2024-05-02,7
+11,30,Asthma,Female,2024-05-11,5
+12,42,Fever,Male,2024-05-20,2
+13,70,Heart Disease,Female,2024-06-03,11
+14,23,Asthma,Male,2024-06-12,3
+15,58,Diabetes,Male,2024-06-25,8
